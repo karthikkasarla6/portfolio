@@ -10,10 +10,10 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Lily Smith - Web Development Portfolio</title>
+        <title>karthik kasarla - Portfolio</title>
         <meta
           name="description"
-          content="Portfolio of Lily Smith, a passionate web developer based in the USA."
+          content="Portfolio of karthik kasarla, a passionate software developer based in the USA."
         />
       </Head>
       <Navbar />
