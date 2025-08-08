@@ -1,11 +1,9 @@
 import Head from "next/head";
 import Navbar from "../components/Navbar";
 import Hero from "../components/Hero";
-import Clients from "../components/Clients";
 import Skills from "../components/Skills";
 import Projects from "../components/Projects";
 import Resume from "../components/Resume";
-import Testimonials from "../components/Testimonials";
 import Contact from "../components/Contact";
 
 export default function Home() {
@@ -29,3 +27,4 @@ export default function Home() {
     </div>
   );
 }
+
